@@ -26,7 +26,7 @@ Experienced Java Software Developer with a passion for building robust and scala
 
 Feel free to reach out to me to discuss collaborations, opportunities, or just to geek out about Java and software development in general!
 
-[LinkedIn]([LinkedIn_Link](https://www.linkedin.com/in/dhananjay-tayade-4b297a78/))
+[LinkedIn]([https://www.linkedin.com/in/dhananjay-tayade-4b297a78/])
 
 ```
 Replace placeholders like `[Your Name]`, `[X years]`, `[LinkedIn_Link]`, `[Portfolio_Link]`, and `[Twitter_Link]` with your actual information and URLs. This README provides a concise overview of your experience, skills, current learning interests, notable projects, and ways to connect with you.
