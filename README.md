@@ -29,6 +29,3 @@ Introducing our Student Management Application: Your all-in-one solution for eff
 Feel free to reach out to me to discuss collaborations, opportunities, or just to geek out about Java and software development in general!
 
 [LinkedIn](https://www.linkedin.com/in/dhananjay-tayade-4b297a78/)
-
-```
-Replace placeholders like `[Your Name]`, `[X years]`, `[LinkedIn_Link]`, `[Portfolio_Link]`, and `[Twitter_Link]` with your actual information and URLs. This README provides a concise overview of your experience, skills, current learning interests, notable projects, and ways to connect with you.
