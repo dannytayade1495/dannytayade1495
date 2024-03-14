@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there! 👋 I'm Dhananjay 👨‍💻
 
-<!--
-**dannytayade1495/dannytayade1495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Java Software Developer with a passion for building robust and scalable applications. I've spent [X years] honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, SQL, HTML, CSS
+- **Frameworks:** Spring Framework, Hibernate
+- **Tools:** Eclipse, Git, Maven
+- **Databases:** MySQL, MongoDB
+- **Others:** RESTful APIs, JUnit, Mockito, REST Assured
+
+## 🌱 Currently Learning
+
+- Thymeleaf Templates
+- JavaScript
+- Microservices Architecture
+
+## 🚀 Projects
+
+- [Project Name](link): Short description.
+- [Project Name](link): Short description.
+- [Project Name](link): Short description.
+
+## 💬 Let's Connect
+
+Feel free to reach out to me to discuss collaborations, opportunities, or just to geek out about Java and software development in general!
+
+[LinkedIn]([LinkedIn_Link](https://www.linkedin.com/in/dhananjay-tayade-4b297a78/))
+
+```
+Replace placeholders like `[Your Name]`, `[X years]`, `[LinkedIn_Link]`, `[Portfolio_Link]`, and `[Twitter_Link]` with your actual information and URLs. This README provides a concise overview of your experience, skills, current learning interests, notable projects, and ways to connect with you.
