@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dhananjay 👨‍💻
 
-Experienced Java Software Developer with a passion for building robust and scalable applications. I've spent [X years] honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+Experienced Java Software Developer with a passion for building robust and scalable applications. I've spent 2.5 years honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 
 ## 🔧 Technologies & Tools
 
@@ -9,6 +9,10 @@ Experienced Java Software Developer with a passion for building robust and scala
 - **Tools:** Eclipse, Git, Maven
 - **Databases:** MySQL, MongoDB
 - **Others:** RESTful APIs, JUnit, Mockito, REST Assured
+
+## 🔭 I’m currently working on
+
+- E-Commerce application using Spring Boot
 
 ## 🌱 Currently Learning
 
@@ -29,3 +33,5 @@ Introducing our Student Management Application: Your all-in-one solution for eff
 Feel free to reach out to me to discuss collaborations, opportunities, or just to geek out about Java and software development in general!
 
 [LinkedIn](https://www.linkedin.com/in/dhananjay-tayade-4b297a78/)
+[Facebook](https://www.facebook.com/dhananjay.tayade/)
+[Instagram](https://www.instagram.com/_its_me_danny/)
