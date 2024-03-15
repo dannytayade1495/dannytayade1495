@@ -26,7 +26,7 @@ Experienced Java Software Developer with a passion for building robust and scala
 Introducing our Contact Manager Application: Seamlessly organize and access all your contacts in one place! Effortlessly store, update, and retrieve contact information with intuitive features and a user-friendly interface. Simplify your communication and stay connected with ease. Try it now for streamlined contact management! 📞✨.
 
 - [STUDENT MANAGEMENT](https://github.com/dannytayade1495/Student-Management-Spring-Boot):
-Introducing our Student Management Application: Your all-in-one solution for effortless student data management. With simple CRUD operations (Create, Read, Update, Delete), this application allows you to efficiently add, view, edit, and remove student records. 
+Introducing our Student Management Application: Your all-in-one solution for effortless student data management. With simple CRUD operations (Create, Read, Update, Delete), this application allows you to efficiently add, view, edit, and remove student records. 🎓💻
 
 ## 💬 Let's Connect
 
